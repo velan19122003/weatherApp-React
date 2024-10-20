@@ -1,14 +1,32 @@
 {
   "files": {
     "main.css": "/weatherApp-React/static/css/main.011ba285.css",
-    "main.js": "/weatherApp-React/static/js/main.f617bc09.js",
+    "main.js": "/weatherApp-React/static/js/main.2521b69a.js",
     "static/media/background.jpg": "/weatherApp-React/static/media/background.a42ba6f1c03ec5ce3ba7.jpg",
+    "static/media/03d.svg": "/weatherApp-React/static/media/03d.8aae64e148061165e15e.svg",
+    "static/media/03n.svg": "/weatherApp-React/static/media/03n.8aae64e148061165e15e.svg",
+    "static/media/13d.svg": "/weatherApp-React/static/media/13d.1a4d86a11100882da6bd.svg",
+    "static/media/13n.svg": "/weatherApp-React/static/media/13n.1a4d86a11100882da6bd.svg",
+    "static/media/11d.svg": "/weatherApp-React/static/media/11d.91abdb0f63a870f7f72c.svg",
+    "static/media/11n.svg": "/weatherApp-React/static/media/11n.91abdb0f63a870f7f72c.svg",
+    "static/media/02d.svg": "/weatherApp-React/static/media/02d.4d75cec2ba8949aad298.svg",
+    "static/media/02n.svg": "/weatherApp-React/static/media/02n.4d75cec2ba8949aad298.svg",
+    "static/media/10d.svg": "/weatherApp-React/static/media/10d.4355642e477e0f2b40b9.svg",
+    "static/media/10n.svg": "/weatherApp-React/static/media/10n.4355642e477e0f2b40b9.svg",
+    "static/media/09d.svg": "/weatherApp-React/static/media/09d.c35f70cf986cbfb246af.svg",
+    "static/media/09n.svg": "/weatherApp-React/static/media/09n.c35f70cf986cbfb246af.svg",
+    "static/media/04d.svg": "/weatherApp-React/static/media/04d.ac2e80ec495bbe222d53.svg",
+    "static/media/04n.svg": "/weatherApp-React/static/media/04n.ac2e80ec495bbe222d53.svg",
+    "static/media/01d.svg": "/weatherApp-React/static/media/01d.b0c593ac07c9c62a28d5.svg",
+    "static/media/01n.svg": "/weatherApp-React/static/media/01n.b0c593ac07c9c62a28d5.svg",
+    "static/media/50d.svg": "/weatherApp-React/static/media/50d.a99a8b2aec6ef0e56f23.svg",
+    "static/media/50n.svg": "/weatherApp-React/static/media/50n.a99a8b2aec6ef0e56f23.svg",
     "index.html": "/weatherApp-React/index.html",
     "main.011ba285.css.map": "/weatherApp-React/static/css/main.011ba285.css.map",
-    "main.f617bc09.js.map": "/weatherApp-React/static/js/main.f617bc09.js.map"
+    "main.2521b69a.js.map": "/weatherApp-React/static/js/main.2521b69a.js.map"
   },
   "entrypoints": [
     "static/css/main.011ba285.css",
-    "static/js/main.f617bc09.js"
+    "static/js/main.2521b69a.js"
   ]
 }
