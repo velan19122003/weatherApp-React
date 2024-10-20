@@ -178,13 +178,13 @@ body {
     width: 300px;
   }
   .result {
-    max-width: 320px;
+    max-width: 340px;
   }
   .result .details h1 {
     font-size: 20px;
   }
   .forecast .resultsOfForeCast {
-    max-width: 60px;
+    max-width: 65px;
   }
   .result img {
     width: 60px;
@@ -196,5 +196,10 @@ body {
 
   .forecast .resultsOfForeCast {
     font-size: 10px;
+  }
+
+  .forecast .resultsOfForeCast img {
+    width: 40px;
+    height: 40px;
   }
 }
