@@ -165,7 +165,7 @@ body {
   font-weight: bold;
 }
 
-@media only screen and (max-width: 479px) {
+@media only screen and (max-width: 375px) {
   body {
     background-size: cover;
     background-repeat: repeat;
@@ -175,18 +175,26 @@ body {
   }
   .cityInput {
     /* font-size: 1px; */
+    width: 300px;
   }
   .result {
-    max-width: 440px;
+    max-width: 320px;
   }
   .result .details h1 {
     font-size: 20px;
   }
   .forecast .resultsOfForeCast {
-    max-width: 80px;
+    max-width: 60px;
   }
-  .forecast .resultsOfForeCast .day,
+  .result img {
+    width: 60px;
+  }
+  /* .forecast .resultsOfForeCast .day,
   .temp {
     font-size: 12px;
+  } */
+
+  .forecast .resultsOfForeCast {
+    font-size: 10px;
   }
 }
