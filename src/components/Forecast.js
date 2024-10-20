@@ -10,7 +10,7 @@ function Forecast(props) {
           return (
             <li className="resultsOfForeCast" key={index}>
               <p className="day">{item.day}</p>
-              <img src={`/images/${item.image}.svg`} alt="" />
+              <img src={require(`../assets/images/${item.image}.svg`)} alt="" />
               <p className="temp">
                 {isC
                   ? `${item.temp} °C`

@@ -1,5 +1,6 @@
 import React, { useState } from "react";
 import Forecast from "./Forecast";
+
 function Result(props) {
   let data = props.weatherData;
   let isC = props.c;
@@ -10,7 +11,10 @@ function Result(props) {
         {/* {images.map((item, index) => {
           return <img src={`/images/${images[index]}`} alt="" />;
         })} */}
-        <img src={`/images/${data.weather[0].icon}.svg`} alt="" />
+        <img
+          src={require(`../assets/images/${data.weather[0].icon}.svg`)}
+          alt=""
+        />
         <section className="details">
           <p>Today</p>
           <h1>{data.name}</h1>
